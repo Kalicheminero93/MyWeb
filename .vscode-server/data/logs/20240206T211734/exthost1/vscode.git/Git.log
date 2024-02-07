@@ -1,0 +1,58 @@
+2024-02-06 21:17:44.426 [info] Log level: Info
+2024-02-06 21:17:44.426 [info] Validating found git in: "git"
+2024-02-06 21:17:44.426 [info] Using git "2.34.1" from "git"
+2024-02-06 21:17:44.426 [info] > git rev-parse --show-toplevel [77ms]
+2024-02-06 21:17:44.426 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 21:17:44.426 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-06 21:17:44.426 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-06 21:18:48.080 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-06 21:18:48.087 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-02-06 21:18:48.104 [info] Open repository: /home/kalicheminero
+2024-02-06 21:18:48.127 [info] No remotes found in the git config file.
+2024-02-06 21:18:48.131 [info] > git config --get commit.template [16ms]
+2024-02-06 21:18:48.131 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-02-06 21:18:48.132 [warning] No such branch: master.
+2024-02-06 21:18:48.202 [info] > git status -z -uall [61ms]
+2024-02-06 21:18:49.500 [info] > git config --get commit.template [1152ms]
+2024-02-06 21:18:49.538 [info] > git check-ignore -v -z --stdin [8ms]
+2024-02-06 21:18:49.565 [info] No remotes found in the git config file.
+2024-02-06 21:18:49.594 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [29ms]
+2024-02-06 21:18:49.594 [warning] No such branch: master.
+2024-02-06 21:18:49.679 [info] > git status -z -uall [76ms]
+2024-02-07 09:00:02.220 [info] > git check-ignore -v -z --stdin [54ms]
+2024-02-07 09:11:19.466 [info] > git config --get commit.template [3ms]
+2024-02-07 09:11:19.476 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-07 09:11:20.132 [info] > git status -z -uall [647ms]
+2024-02-07 09:11:25.316 [info] > git config --get commit.template [32ms]
+2024-02-07 09:11:25.317 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-07 09:11:25.399 [info] > git status -z -uall [52ms]
+2024-02-07 09:11:31.071 [info] > git ls-files --stage -- /home/kalicheminero/web.html [117ms]
+2024-02-07 09:11:31.144 [info] > git show --textconv :web.html [200ms]
+2024-02-07 09:11:31.157 [info] > git cat-file -s af4d0b09c0f583309b6f36b9dfb18d960583ebc0 [72ms]
+2024-02-07 09:11:33.876 [info] > git config --get commit.template [18ms]
+2024-02-07 09:11:33.877 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-07 09:11:33.959 [info] > git status -z -uall [50ms]
+2024-02-07 09:11:39.057 [info] > git config --get commit.template [13ms]
+2024-02-07 09:11:39.058 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-07 09:11:39.122 [info] > git status -z -uall [47ms]
+2024-02-07 09:11:44.238 [info] > git config --get commit.template [19ms]
+2024-02-07 09:11:44.239 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-07 09:11:44.494 [info] > git status -z -uall [75ms]
+2024-02-07 09:11:49.646 [info] > git config --get commit.template [41ms]
+2024-02-07 09:11:49.646 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-07 09:11:49.732 [info] > git status -z -uall [40ms]
+2024-02-07 09:11:54.838 [info] > git config --get commit.template [14ms]
+2024-02-07 09:11:54.839 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-07 09:11:54.890 [info] > git status -z -uall [41ms]
+2024-02-07 09:11:59.996 [info] > git config --get commit.template [4ms]
+2024-02-07 09:12:00.007 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-07 09:12:00.068 [info] > git status -z -uall [47ms]
+2024-02-07 09:12:09.951 [info] > git config --get commit.template [5ms]
+2024-02-07 09:12:09.961 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-07 09:12:10.021 [info] > git status -z -uall [51ms]
+2024-02-07 09:12:15.118 [info] > git config --get commit.template [6ms]
+2024-02-07 09:12:15.132 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-07 09:12:15.190 [info] > git status -z -uall [48ms]
+2024-02-07 09:12:20.318 [info] > git config --get commit.template [15ms]
+2024-02-07 09:12:20.319 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-07 09:12:20.372 [info] > git status -z -uall [42ms]

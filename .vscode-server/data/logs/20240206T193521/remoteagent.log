@@ -1,0 +1,20 @@
+2024-02-06 19:35:21.173 [info] 
+
+
+
+
+2024-02-06 19:35:21.174 [info] Extension host agent started.
+2024-02-06 19:35:21.174 [info] Started initializing default profile extensions in extensions installation folder. file:///home/kalicheminero/.vscode-server/extensions
+2024-02-06 19:35:21.587 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/kalicheminero/.vscode-server/extensions
+2024-02-06 19:35:23.619 [info] [127.0.0.1][589fc520][ManagementConnection] New connection established.
+2024-02-06 19:35:23.651 [info] [127.0.0.1][e80e01dc][ExtensionHostConnection] New connection established.
+2024-02-06 19:35:23.662 [info] [127.0.0.1][e80e01dc][ExtensionHostConnection] <837> Launched Extension Host Process.
+2024-02-06 19:39:54.657 [info] Getting Manifest... ritwickdey.liveserver
+2024-02-06 19:39:54.853 [info] Installing extension: ritwickdey.liveserver
+2024-02-06 19:39:59.564 [info] Extension signature is verified: ritwickdey.liveserver
+2024-02-06 19:40:08.379 [info] Extracted extension to file:///home/kalicheminero/.vscode-server/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-02-06 19:40:08.513 [info] Renamed to /home/kalicheminero/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2024-02-06 19:40:08.521 [info] Extracting extension completed. ritwickdey.liveserver
+2024-02-06 19:40:08.710 [info] Extension installed successfully: ritwickdey.liveserver
+2024-02-06 19:44:35.191 [info] [127.0.0.1][589fc520][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-06 19:44:35.344 [info] [127.0.0.1][e80e01dc][ExtensionHostConnection] <837> Extension Host Process exited with code: 0, signal: null.

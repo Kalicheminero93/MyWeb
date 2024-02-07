@@ -1,0 +1,7 @@
+[Error - 8:44:53 PM] Sending document notification textDocument/didSave failed.
+Error: Starting server failed
+	at S.$start (/home/kalicheminero/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:276731)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async S.sendNotification (/home/kalicheminero/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:262131)
+	at async t (/home/kalicheminero/.vscode-server/bin/05047486b6df5eb8d44b2ecd70ea3bdf775fd937/extensions/html-language-features/client/dist/node/htmlClientMain.js:1:338928)
+[Error - 8:44:56 PM] Stopping server timed out
